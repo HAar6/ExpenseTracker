@@ -5,7 +5,7 @@ A full-stack expense tracker application to manage your personal or business fin
 ---
 
 ## 🔗 Live Demo
-[ Live URL]([https://your-frontend-url.com](https://expensetrackerfrontend-oled.onrender.com))  
+[ Live URL][https://expensetrackerfrontend-oled.onrender.com]  
 ---
 
 ## 📦 Tech Stack
